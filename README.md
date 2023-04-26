@@ -1,3 +1,1 @@
 # snjrkn.github.io
-
-readme
